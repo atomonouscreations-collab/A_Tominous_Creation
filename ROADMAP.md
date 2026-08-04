@@ -6,7 +6,7 @@
 - [ ] Write the first build-log post (the concept + open-source rationale)
 
 ## Near term
-- [ ] Pin down the machine-description format the toolpath generator needs (highest-leverage single piece — everything else depends on it)
+- [ ] Pin down the machine-description format the toolpath generator needs (highest-leverage single piece — everything else depends on it) — draft v0.1 up in `docs/machine-description-format.md`, open questions on param standardization and handoff-authoring still unresolved
 - [ ] Post design updates regularly, even small ones
 - [ ] Enter the Hackaday Prize once the project page is live
 

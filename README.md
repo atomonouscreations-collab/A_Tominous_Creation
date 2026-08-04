@@ -15,6 +15,7 @@ What doesn't exist yet is the software: an ecosystem program that's the meeting 
 - **`docs/hardware.md`** — the base machine, and why it's kept simple on purpose.
 - **`docs/software.md`** — the actual project: what the toolpath generator needs to do and why that's the hard, useful part.
 - **`docs/tool-family.md`** — the tools the software needs to route work to.
+- **`docs/machine-description-format.md`** — draft schema for describing a build's hardware, since everything downstream (plug-ins, handoffs) depends on it.
 
 ## Why open source
 
