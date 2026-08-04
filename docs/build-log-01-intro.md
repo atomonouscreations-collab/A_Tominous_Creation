@@ -1,4 +1,4 @@
-# A_Tominous_Creation — where different manufacturing technologies come together
+# A_Tomonous_Creation — where different manufacturing technologies come together
 
 ## The problem
 
@@ -6,13 +6,13 @@ Most 3D printers do one process well. The moment you want bulk volume, structura
 
 ## The hardware isn't the interesting part
 
-The base machine here is an extended-height Voron 2.4 with a simple arm mounted above it, sharing the same vertical linear rails. That's it. Motion systems and tool changers — core-XY, Stealthchanger, the rest — are already solved problems in the Voron/RepRap-derived community. No new mechanical invention here, and no fixed way it has to be built.
+The base machine here is an extended-height Voron 2.4 with a simple arm mounted above it, sharing the same vertical linear rails. That's it. Motion systems and tool changers are already solved problems in the Voron/RepRap-derived community. No new mechanical invention here, and no fixed way it has to be built.
 
 ## The actual project: a meeting point, not a new engine
 
 Planar slicing, non-planar slicing, CAM, laser toolpath generation — all of these already have existing software solving them, in varying states of maturity. This project doesn't try to out-build any of them. It's the ecosystem software that pulls them all in as plug-ins, so a designer can move between technologies on one job instead of juggling separate programs with no way to hand off between them.
 
-At first, the designer is responsible for deciding which method runs when: pause one plug-in's output at a chosen point, hand off to another, then resume. It's the same idea as a manual filament-change pause, generalized across whatever plug-ins are wired in. Automatic routing is a longer-term goal, not what's needed to get something useful working.
+At first, the designer is responsible for deciding which method runs when: pause one plug-in's output at a chosen point, hand off to another, then resume. It's the same idea as a manual filament-change pause, generalized across whatever plug-ins are wired in. Automatic routing is a longer-term goal.
 
 Full writeup: `docs/hardware.md` for the base machine, `docs/software.md` for the plug-in architecture, `docs/tool-family.md` for the tools it needs to support.
 
