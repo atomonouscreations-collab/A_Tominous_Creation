@@ -1,8 +1,8 @@
 # Launch checklist
 
 ## This week
-- [ ] Push this scaffold to a new public GitHub repo
-- [ ] Create hackaday.io project page, link back to the repo
+- [x] Push this scaffold to a new public GitHub repo
+- [ ] Create hackaday.io project page, link back to the repo — profile submitted, pending creator status review
 - [ ] Write the first build-log post (the concept + open-source rationale)
 
 ## Near term
