@@ -13,19 +13,19 @@ No outside capital going in — funding this through open-source-native routes, 
 
 - [ ] Enter the Hackaday Prize once there's a real project page to point to
 
-## 3. Grant funding (no company or degree required)
+## 3. Grant funding
 
-- [ ] NLnet NGI Zero Commons Fund — €5,000–50,000, open source eligible (hardware and software both), 6-question application. Framing angle: open software that enables distributed/access-open manufacturing rather than a closed commercial machine.
-- [ ] Check state/local innovation programs (Oklahoma: i2E, Tulsa Innovation Labs) for small grants or in-kind support
+- [ ] NLnet NGI Zero Commons Fund — €5,000–50,000, open source eligible, 6-question application. Framing angle: open software that enables distributed/access-open manufacturing rather than a closed commercial machine.
+- [ ] Check state/local innovation programs for small grants or in-kind support
 
 ## 4. Audience-funded R&D
 
 - [ ] GitHub Sponsors or Patreon tied to the build log once there's an audience worth asking
 - [ ] Component sponsorships — reach out to toolchanger-adjacent vendors for parts in exchange for visibility, once the design is public enough to be worth sponsoring
 
-## 5. Crowdfunding (later, once something is real)
+## 5. Crowdfunding
 
-- [ ] Crowd Supply — a hardware crowdfunding platform, so a weaker fit now that the core project is software; only worth it later if a standalone hardware piece (e.g. a tool-coupling kit) becomes worth selling on its own
+- [ ] Crowd Supply — a hardware crowdfunding platform, so a weaker fit now that the core project is software; only worth it later if a standalone hardware piece becomes worth selling on its own
 
 ## 6. Heavier-weight option
 
