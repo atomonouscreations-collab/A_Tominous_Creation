@@ -8,7 +8,7 @@ Concept / pre-hardware. Documentation in progress. Not yet built.
 
 ## The idea
 
-The hardware is simple, and it's not the point: an extended-height Voron 2.4 with a simple arm mounted above the base machine, sharing the same vertical linear rails rather than needing its own frame. Motion systems and tool changers (Stealthchanger and others) are already solved problems in the Voron/RepRap-derived community — build it however suits you, there's no fixed way it has to be done.
+The hardware is simple, and it's not the point: an extended-height Voron 2.4 with a simple arm mounted above the base machine, sharing the same vertical linear rails rather than needing its own frame. Motion systems and tool changers are already solved problems in the Voron/RepRap-derived community — build it however suits you, there's no fixed way it has to be done.
 
 What doesn't exist yet is the software: an ecosystem program that's the meeting point for the different manufacturing technologies — planar slicers, non-planar slicers, CAM, laser — pulled in as plug-ins rather than run as separate disconnected programs. It doesn't implement any specific toolpath generation method itself; several already exist for each, including non-planar slicers, and duplicating that work isn't the point. At first, the designer decides which method runs when, by pausing one plug-in's output at a chosen point and handing off to another, the same way a manual filament-change pause works, just generalized across whatever plug-ins are wired in.
 
@@ -32,7 +32,7 @@ This design isn't being patented. The goal is to document it publicly, openly, a
 hardware/       CAD, electrical schematics, BOMs — kept minimal, base is an extended Voron 2.4
 firmware/       gantry/, arm/, tool-coupling/ — onboard control code
 software/       slicer-integration/, plugins/, scheduler/, sim/ — the actual project: a plug-in host where planar, non-planar, CAM, and laser toolpath technologies come together
-docs/           hardware, software, tool family, funding plan, build log
+docs/           hardware, software, tool family, machine-description format, funding plan, build log
 tests/
 scripts/
 ```

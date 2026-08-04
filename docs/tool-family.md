@@ -1,6 +1,6 @@
 # Tool family
 
-Tool changing is a solved problem (Stealthchanger and others) — use whatever suits your build. This doc is about what tools the software (see `software.md`) needs to know how to route work to, not a hardware spec.
+Tool changing is a solved problem — use whatever suits your build. This doc is about what tools the software (see `software.md`) needs to know how to route work to, not a hardware spec.
 
 ## No process here is novel
 
