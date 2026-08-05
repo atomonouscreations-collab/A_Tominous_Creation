@@ -1,4 +1,4 @@
-# A_Tominous_Creation
+# A_Tomonous_Creation
 
 More a software project than a hardware one.
 
